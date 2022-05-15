@@ -1,3 +1,5 @@
 # Snake...but_its_terminal
 
-Sample project with curses. (Main implementation to be done on the [Resource Manager](https://github.com/Bot-7037/Resource-Monitor))
+Sample project using `Python Curses` to make use of TUI.
+
+Clone the repository and run Main.py to play the game on your terminal. 
